@@ -1,9 +1,6 @@
 /*
 Name: Pari Shah
-Date: January 18, 2016
 Purpose: To create a logical/spatial game with the theme of space
-Teacher: Ms Gorski
-Period 2
 
 Sources for Images
 1. Picture Name: lvlone1.jpg            Source: http://www.barnabu.co.uk/otherplanets/
